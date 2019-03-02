@@ -33,4 +33,4 @@ java -jar main.jar 10800 10500 1
 
 
 # TODO
-Migrate to Maven (Sovles Java 8 requirement)
+Migrate to Maven (Solves Java 8 requirement)
