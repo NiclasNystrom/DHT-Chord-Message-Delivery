@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.mongodb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.mongodb_2.11/org.mongodb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

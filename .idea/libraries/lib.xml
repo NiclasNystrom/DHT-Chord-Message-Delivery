@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.guice.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.rdf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.sdc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.gwt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.wadl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.jibx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.lucene.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.oauth.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.velocity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.jetty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.simple.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.freemarker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.javamail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.spring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.jaxrs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.xstream.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.e4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.html.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.odata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.jsslutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.atom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.sip.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.example.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.emf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.jaxb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.jackson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protobuf-java-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.nio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.swagger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.rome.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.openid.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.gson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.crypto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.apispark.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.thymeleaf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.jaas.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.slf4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.restlet.ext.raml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

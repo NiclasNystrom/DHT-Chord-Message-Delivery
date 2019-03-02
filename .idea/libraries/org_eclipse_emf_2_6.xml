@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.eclipse.emf_2.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.emf_2.6/org.eclipse.emf.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.emf_2.6/org.eclipse.emf.ecore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.emf_2.6/org.eclipse.emf.ecore.xmi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

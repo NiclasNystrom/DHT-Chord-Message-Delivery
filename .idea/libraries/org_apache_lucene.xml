@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.lucene">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.lucene_4.6/org.apache.lucene.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.osgi_4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.osgi_4.0/org.osgi.compendium.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.osgi_4.0/org.osgi.core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

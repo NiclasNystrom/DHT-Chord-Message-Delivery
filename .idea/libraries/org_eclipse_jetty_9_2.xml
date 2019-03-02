@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jetty_9.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.http.common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.http.server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.http.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,85 @@
+<project name="AntExample" default="server" basedir=".">
+    <description>
+    </description>
+
+    <property environment="env"/>
+    <property name="lib" location="lib"/>
+    <property name="src" location="src"/>
+    <property name="build" location="build"/>
+    <property name="jarfile-server" location="server.jar"/>
+    <property name="jarfile-client" location="client.jar"/>
+	<property name="jarfile-main" location="main.jar"/>
+    <property name="server" value="rest.server.MessengerServer"/>
+    <property name="main" value="rest.ClientServerMain"/>
+    <property name="client" value="rest.client.ClientMain"/>
+
+    <path id="classpath.lib">
+        <fileset dir="${lib}">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <target name="init">
+        <tstamp/>
+        <mkdir dir="${build}"/>
+    </target>
+
+    <target name="compile" depends="init" description="compile source">
+
+        <javac includeantruntime="false" debug="true"
+               srcdir="${src}" destdir="${build}">
+            <compilerarg value="-Xlint:unchecked"/>
+            <classpath refid="classpath.lib"/>
+        </javac>
+    </target>
+
+    <target name="server" depends="compile" description="generate distribution">
+        <jar jarfile="${jarfile-server}" basedir="${build}">
+            <zipgroupfileset dir="lib" includes="org.restlet.jar" />
+            <manifest>
+                <attribute name="Main-Class" value="${server}"/>
+            </manifest>
+        </jar>
+
+        <delete dir="${build}"/>
+    </target>
+
+    <target name="client" depends="compile" description="generate distribution">
+        <jar jarfile="${jarfile-client}" basedir="${build}">
+            <zipgroupfileset dir="lib" includes="org.restlet.jar" />
+            <zipgroupfileset dir="lib" includes="org.json_2.0/org.json.jar" />
+            <manifest>
+                <attribute name="Main-Class" value="${client}"/>
+            </manifest>
+        </jar>
+
+        <delete dir="${build}"/>
+    </target>
+
+	    <target name="main" depends="compile" description="generate distribution">
+        <jar jarfile="${jarfile-main}" basedir="${build}">
+            <zipgroupfileset dir="lib" includes="org.restlet.jar" />
+            <zipgroupfileset dir="lib" includes="org.json_2.0/org.json.jar" />
+            <manifest>
+                <attribute name="Main-Class" value="${main}"/>
+            </manifest>
+        </jar>
+
+        <delete dir="${build}"/>
+    </target>
+
+	
+    <target name="clean" description="clean up">
+        <delete dir="${build}"/>
+        <delete file="${jarfile-server}"/>
+        <delete file="${jarfile-client}"/>
+        <delete file="${jarfile-main}"/>
+        <delete>
+            <fileset dir="." includes="**/*.tmp"/>
+        </delete>
+    </target>
+
+
+
+
+</project>

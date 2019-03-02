@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.raml.parser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.raml_0.8/org.raml.parser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

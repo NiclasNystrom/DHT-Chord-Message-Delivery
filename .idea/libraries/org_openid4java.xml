@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.openid4java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.openid4java_0.9/org.openid4java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

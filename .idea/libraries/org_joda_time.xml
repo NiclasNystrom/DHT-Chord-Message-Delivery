@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.joda.time">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.joda.time_2.3/org.joda.time.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

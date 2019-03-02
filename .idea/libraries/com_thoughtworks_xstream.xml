@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.thoughtworks.xstream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.thoughtworks.xstream_1.4/com.thoughtworks.xstream.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

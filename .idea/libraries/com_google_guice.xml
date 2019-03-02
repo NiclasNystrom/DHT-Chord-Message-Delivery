@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.google.guice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.google.guice_3.0/com.google.guice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

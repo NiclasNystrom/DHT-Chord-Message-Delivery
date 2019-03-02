@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.javassist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.javassist_3.18/org.javassist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

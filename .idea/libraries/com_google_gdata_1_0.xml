@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.gdata_1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.google.gdata_1.0/com.google.gdata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.google.gdata_1.0/com.google.gdata.client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

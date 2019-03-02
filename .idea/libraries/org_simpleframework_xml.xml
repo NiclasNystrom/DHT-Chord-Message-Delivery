@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.simpleframework.xml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.simpleframework.xml_2.7/org.simpleframework.xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

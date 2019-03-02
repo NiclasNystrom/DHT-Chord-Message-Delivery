@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="net.sourceforge.nekohtml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/net.sourceforge.nekohtml_1.9/net.sourceforge.nekohtml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

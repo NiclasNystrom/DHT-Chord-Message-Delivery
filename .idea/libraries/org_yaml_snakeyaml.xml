@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.yaml.snakeyaml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.yaml.snakeyaml_1.13/org.yaml.snakeyaml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

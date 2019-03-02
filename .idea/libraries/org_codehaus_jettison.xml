@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.codehaus.jettison">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.codehaus.jettison_1.3/org.codehaus.jettison.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.springframework_3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework_3.2/org.springframework.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework_3.2/org.springframework.beans.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework_3.2/org.springframework.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework_3.2/org.springframework.webmvc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework_3.2/org.springframework.context.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework_3.2/org.springframework.expression.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

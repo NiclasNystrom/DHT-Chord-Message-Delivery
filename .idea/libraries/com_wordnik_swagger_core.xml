@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.wordnik.swagger.core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.wordnik.swagger.core_1.5/com.wordnik.swagger.core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

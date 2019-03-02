@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.google.sdc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.google.sdc_1.3/com.google.sdc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

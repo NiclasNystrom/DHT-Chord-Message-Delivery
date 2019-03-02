@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="net.oauth">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/net.oauth_1.0/net.oauth.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

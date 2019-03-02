@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.jsslutils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.jsslutils_1.0/org.jsslutils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

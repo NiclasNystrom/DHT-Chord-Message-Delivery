@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="net.jcip.annotations">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/net.jcip.annotations_1.0/net.jcip.annotations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
